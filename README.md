@@ -1,4 +1,10 @@
-## Hi there 👋
+Estudante de Engenharia de Automação Industrial na Universidade de Aveiro, 
+com sólida base em programação C/C++, modelação em SolidWorks e 
+desenvolvimento com Arduino. Em busca de uma oportunidade de estágio no 
+setor industrial para aplicar competências técnicas no suporte a sistemas 
+automatizados, otimização de processos e manutenção. Perfil proativo, com 
+facilidade de integração em equipas multidisciplinares e forte capacidade de 
+adaptação à dinâmica fabril.
 
 <!--
 **DeCastro056/DeCastro056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
